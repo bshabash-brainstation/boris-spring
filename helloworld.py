@@ -4,5 +4,5 @@ def my_function():
 	return x+y
 
 if __name__ == '__main__':
-	print("Hello World!")
+	print("Goodbye World!")
 	print(my_function())
