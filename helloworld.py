@@ -1,7 +1,8 @@
 def my_function():
-	x = 6
-	y = 7
-	return x+y
+	x = 9
+	y = 8
+	z = 10
+	return x+y+z
 
 if __name__ == '__main__':
 	print("Goodbye World!")
