@@ -3,5 +3,6 @@ def my_function():
 	y = 2
 	return x+y
 
-print("Hello World!")
-print(my_function())
+if __name__ == '__main__':
+	print("Hello World!")
+	print(my_function())
