@@ -1,6 +1,4 @@
-def my_function():
-	x = 6
-	y = 7
+def my_function(x=1, y=1):
 	return x+y
 
 if __name__ == '__main__':
